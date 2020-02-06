@@ -1,4 +1,497 @@
 #EXTM3U
+#EXTINF:-2 tvg-name="UA:Перший" group-title="Новые Украина", UA:Перший
+http://95.67.77.131/hls/uapershiy_ua_hi/index.m3u8
+#EXTINF:-2 tvg-name="Iнтер" group-title="Новые Украина", Интер
+http://109.95.47.229:809/Inter/index.m3u8
+#EXTINF:-2 tvg-name="1+1" group-title="Новые Украина", 1+1
+http://193.46.210.28/stream/bcc22ahjbcgm4t5mhuks9vgnjkx5b93twypuienagjuj9nb4qqz9dxd7e2qj9br2k3vw3p9ke7jzqfpx2vtcf35qbvph4kv9yyr79cmr6ximrygd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+#EXTINF:-2 tvg-id="stb-ua" group-title="Новые Украина",СТБ
+http://51.15.176.84/hls/stb-ua/index.m3u8
+#EXTINF:-2 tvg-name="2+2" group-title="Новые Украина", 2+2
+http://109.95.47.229:809/2+2/index.m3u8
+#EXTINF:-2 tvg-name="112" group-title="Новые Украина", 112
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-2 tvg-name="ICTV" group-title="Новые Украина", ICTV
+http://51.15.176.84/hls/ictv-ua/index.m3u8
+#EXTINF:-2 tvg-name="NewsOne" group-title="Новые Украина", NewsOne
+https://bozztv.com/36bay2/gin/giniko_newsone_700kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-2 tvg-name="34 канал" group-title="Новые Украина", 34 канал
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-2 tvg-name="Новый канал" group-title="Новые Украина", Новый канал
+http://51.15.176.84/hls/novy-ua/index.m3u8
+#EXTINF:-2 tvg-name="ТЕТ" group-title="Новые Украина", ТЕТ
+http://109.95.47.229:809/TET/index.m3u8
+#EXTINF:-2 tvg-name="НТН" group-title="Новые Украина", НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-2 tvg-name="ATR" group-title="Новые Украина", ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-2 tvg-name="Бигуди" group-title="Новые Украина", Бигуди
+http://109.95.47.229:809/Bigudi/index.m3u8
+#EXTINF:-2 tvg-name="ЧП Инфо" group-title="Новые Украина", ЧП Инфо
+http://109.68.41.148:1935/live/magnolia_3/playlist.m3u8
+#EXTINF:-2 tvg-name="Прямий" group-title="Новые Украина", Прямий
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-2 tvg-name="Рада" group-title="Новые Украина", Рада
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-2 tvg-name=Espresso TV" group-title="Новые Украина", Espresso TV
+http://api.tv.ipnet.ua:80/api/v1/manifest/2007567821.m3u8
+#EXTINF:-2 tvg-name="К1" group-title="Новые Украина", К1
+http://109.68.41.148:1935/live/k1_3/playlist.m3u8
+#EXTINF:-2 tvg-name="К2" group-title="Новые Украина", К2
+http://109.95.47.229:809/K2/index.m3u8
+#EXTINF:-2 tvg-name="Euronews" group-title="Новые Украина", Euronews
+https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-2 tvg-name="Индиго" group-title="Новые Украина", Индиго
+http://109.95.47.229:809/Indigo/index.m3u8
+#EXTINF:-2 tvg-name="ZIK" group-title="Новые Украина", ZIK
+http://live-zik-hls1.cosmonova.net.ua/hls/zik_ua_hi/index.m3u8
+#EXTINF:-2 tvg-name="Maxxi-TV" group-title="Новые Украина", Maxxi-TV
+https://bozztv.com/36bay2/gin/giniko_maxxi_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-2 tvg-name="Солнце" group-title="Новые Украина", Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-2 tvg-name="Эко-ТВ" group-title="Новые Украина", Эко-ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-2 tvg-name="Киев" group-title="Новые Украина", Киев
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-2 tvg-name="Рада" group-title="Новые Украина", Рада
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:-2 tvg-name="STV" group-title="Новые Украина", STV
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/stvod/stvod/playlist.m3u8
+#EXTINF:-2 tvg-name="Еспресо TV" group-title="Новые Украина", Еспресо TV
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-2 tvg-name="ЧП.INFO" group-title="Новые Украина", ЧП.INFO
+http://109.68.40.67/life/magnolia_3/index.m3u8
+#EXTINF:-2 tvg-logo="https://11tv.dp.ua/wp-content/uploads/2019/04/11logo100X100.png" group-title="Новые Украина", 11 канал
+http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8
+#EXTINF:-2 tvg-name="ОТВ" group-title="Новые Украина", ОТВ (Днепр)
+http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
+#EXTINF:-2 tvg-name="ІРТ" group-title="Новые Украина", ІРТ (Днепр)
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+#EXTINF:-2 tvg-name="Донбасс" group-title="Новые Украина", Donbass
+http://api.tv.ipnet.ua/api/v1/manifest/2118742461.m3u8
+#EXTINF:-2 tvg-name="24 канал" group-title="Новые Украина", 24 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-2 tvg-name="Перший Дiловий" group-title="Новые Украина", Первый Деловой
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-2 tvg-name="5 канал (Украина)" group-title="Новые Украина", 5 Канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-2 tvg-name="КРТ" group-title="Новые Украина", КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-2 tvg-name="UA Крым" group-title="Новые Украина", UA Крым
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-2 tvg-name="UA Донбас" group-title="Новые Украина", UA Donbass
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-2 tvg-name="4 канал" group-title="Новые Украина", 4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-2 tvg-name="Первый канал" group-title="Новые Россия", Первый канал
+http://46.165.2.202:8080/perviy/index.m3u8
+#EXTINF:-2 tvg-name="Россия 1" group-title="Новые Россия", Россия 1
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_2.m3u8
+#EXTINF:-2 tvg-name="Россия 24" group-title="Новые Россия", Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:-2 tvg-name="Москва 24" group-title="Новые Россия", Москва 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b800000.m3u8
+#EXTINF:-2 tvg-name="Время" group-title="Новые Россия", Время
+https://rt-cache1.peers.tv/streaming/time/16/tvrecw/playlist.m3u8
+#EXTINF:-2 tvg-name="Euronews" group-title="Новые Россия", Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-2 tvg-name="РТР Планета" group-title="Новые Россия", РТР Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-2 tvg-name="Россия К" group-title="Новые Россия", Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:russiak.smil/chunklist_b1600000.m3u8
+#EXTINF:-2 tvg-name="Известия" group-title="Новые Россия", Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-2 tvg-name="РЕН ТВ" group-title="Новые Россия",Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-2 tvg-name="НТВ" group-title="Новые Россия", НТВ
+http://46.165.2.202:8080/ntv/index.m3u8
+#EXTINF:-2 tvg-name="НТВ сериал" group-title="Новые Россия", НТВ сериал
+http://178.124.183.150/hls/CH_NTVSERIAL_HLS/bw1200000/playlist.m3u8
+#EXTINF:-2 tvg-name="НТВ Хит" group-title="Новые Россия", НТВ Хит
+https://rt-cache1.peers.tv/streaming/ntv_hit/16/variable.m3u8
+#EXTINF:-2 tvg-name="НТВ Право" group-title="Новые Россия", НТВ Право
+http://178.124.183.150/hls/CH_NTVPRAVO_HLS/bw1200000/playlist.m3u8
+#EXTINF:-2 tvg-name="НТВ Мир" group-title="Новые Россия", НТВ Мир
+http://92.43.140.249/s17/04.m3u8?codec=mpeg4
+#EXTINF:-2 tvg-name="RTVI" group-title="Новые Россия", RTVI
+http://178.124.183.5/hls/PN9VRQ5DGR_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Дождь" group-title="Новые Россия", Дождь
+https://rt-cache1.peers.tv/streaming/rain/16/tvrecw/playlist.m3u8
+#EXTINF:-2 tvg-name="Победа" group-title="Новые Россия", Победа
+https://rt-cache1.peers.tv/streaming/pobeda/16/variable.m3u8
+#EXTINF:-2 tvg-name="Звезда" group-title="Новые Россия", Звезда
+http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v1a1/index.m3u8
+#EXTINF:-2 tvg-name="СТС" group-title="Новые Россия", СТС
+http://46.165.2.202:8080/sts/index.m3u8
+#EXTINF:-2 tvg-name="СТС Love" group-title="Новые Россия", СТС Love
+http://182.73.122.74:10001/bysid/712
+#EXTINF:-2 tvg-name="Калейдоскоп" group-title="Новые Россия", Калейдоскоп
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:-2 tvg-name="ТНТ" group-title="Новые Россия", ТНТ
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="ТНТ4" group-title="Новые Россия", ТНТ4
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT4/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="СУПЕР" group-title="Новые Россия", СУПЕР
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SUPER/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Пятница" group-title="Новые Россия", Пятница
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_PYATNIZZA/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="ТВ-3" group-title="Новые Россия", ТВ-3
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="КРЫМ 1" group-title="Новые Россия", КРЫМ 1
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:-2 tvg-name="КРЫМ 24" group-title="Новые Россия", КРЫМ 24
+http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+#EXTINF:-1 group-title="Новые Россия",Телекафе
+http://185.22.183.150:8085/media/hls_183_150/telekafe/index.m3u8
+#EXTINF:-2 group-title="Новые Россия",Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-2 group-title="Новые Россия", 5 канал
+http://46.165.2.202:8080/5kanal/index.m3u8
+#EXTINF:-2 group-title="Новые Россия",Че
+https://rt-cache1.peers.tv/streaming/perec/126/variable.m3u8
+#EXTINF:-2 group-title="Новые Россия",ТРК Луч HD
+http://live.trk-luch.ru/hls/live_hi.m3u8
+#EXTINF:-2 group-title="Новые Россия",43 Канал HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-2 tvg-name="ОТР" group-title="Новые Россия", ОТР
+http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
+#EXTINF:-2 tvg-name="ТВЦ" group-title="Новые Россия",ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u
+#EXTINF:-2 tvg-name="Мир 24" group-title="Новые Россия", Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-2 tvg-name="Мир Премиум" group-title="Новые Россия", Мир Премиум
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-2 tvg-name="Сарафан" group-title="Новые Россия", Сарафан
+http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8?version=2
+#EXTINF:-1 group-title="Новые Россия",Варяг ТВ
+http://87.252.229.252:8081/varag
+#EXTINF:-1 group-title="Новые Россия",Анекдот ТВ
+http://178.124.183.150/hls/CH_ANEKDOT_HLS/bw1200000/playlist.m3u8
+#EXTINF:-2 tvg-name="Домашний" group-title="Новые Россия", Домашний
+http://46.165.2.202:8080/domashniy/index.m3u8
+#EXTINF:-2 tvg-name="Бобёр" group-title="Новые Россия", Бобёр
+http://88.216.48.147/flussonic/Bobior/index.m3u8
+#EXTINF:-2 tvg-name="ТВЦ" group-title="Новые Россия", ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:-2 tvg-name="8 канал" group-title="Новые Россия", 8 канал
+http://v1.proofix.ru/live-tv8-2/europe/playlist.m3u8
+#EXTINF:-1 group-title="Новые Россия",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-2 tvg-name="Ю" group-title="Новые Россия", Ю
+https://video-4-206.rutube.ru/stream/194.190.76.10/5c9327074e25ca86f3111d4085cbbb65/tracks-v1a1/mono.m3u8
+#EXTINF:-2 group-title="Новые Россия",Ювелирочка
+http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka/playlist.m3u8
+#EXTINF:-2group-title="Новые Россия",КВН ТВ
+http://178.124.183.150/hls/CH_KVN_HLS/bw1200000/playlist.m3u8
+#EXTINF:-2group-title="Новые Россия",Югра
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-2 group-title="Новые Беларусь", Беларусь 1
+http://178.124.183.5/hls/M52YG9EVYD_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Беларусь", Беларусь 2
+http://178.124.183.5/hls/GCKYZGGFEJ_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Беларусь", Беларусь 3
+http://178.124.183.5/hls/TSNEW37RPC_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Беларусь", Беларусь 5
+http://178.124.183.5/hls/JRKVSUPCP8_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Беларусь", ОНТ
+http://178.124.183.5/hls/NCLEFHVZGR_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Беларусь", СТВ
+http://178.124.183.5/hls/RZEQ3BLSTY_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Беларусь", РТР-Беларусь
+http://178.124.183.5/hls/7MQSYYGHFE_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Беларусь", НТВ Беларусь
+http://178.124.183.5/hls/DYJ5GH8HOK_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Беларусь", Мир
+http://178.124.183.5/hls/M4K3ZYBPWQ_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Беларусь", ВТВ
+http://178.124.183.5/hls/CRCQFRNUFJ_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Беларусь", 8 канал
+http://178.124.183.5/hls/ZXUZZKCA6P_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Беларусь", ТНТ international
+http://178.124.183.5/hls/MVNP5DA4U9_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Беларусь", Euronews
+http://178.124.183.5/hls/C5P6YOXJZT_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Беларусь", Бел Бизес Ченел
+http://178.124.183.5/hls/MCEQ4XBTHP_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Піксель" group-title="Новые Детские", Піксель
+http://193.33.39.107:8088/pixel/index.m3u8
+#EXTINF:-2 tvg-name="Малятко" group-title="Новые Детские", Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-2 tvg-name="Мама" group-title="Новые Детские", Мама
+https://rt-cache1.peers.tv/streaming/motherchi/16/tvrec/playlist.m3u8
+#EXTINF:-2 tvg-name="СТС Kids" group-title="Новые Детские", СТС Kids
+https://13.tv4you.online/hls/CH_CTCKIDS/bw2000000/playlist.m3u8
+#EXTINF:-2 tvg-name="Disney Channel" group-title="Новые Детские", Disney Channel
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Nickelodeon" group-title="Новые Детские", Nickelodeon
+https://rt-cache1.peers.tv/streaming/nickelodeon/126/variable.m3u8
+#EXTINF:-2 tvg-name="Nick Junior" group-title="Новые Детские", Nick Junior
+http://213.174.8.7:8000/play/7/index.m3u8
+#EXTINF:-2 tvg-name="Рыжий" group-title="Новые Детские", Рыжий
+https://rt-cache1.peers.tv/streaming/red/16/tvrecw/playlist.m3u8
+#EXTINF:-2 tvg-name="Карусель" group-title="Новые Детские", Карусель
+http://46.165.2.202:8080/karusel/index.m3u8
+#EXTINF:-2 tvg-name="Советские мультфильмы" group-title="Новые Детские", Советские мультфильмы
+https://rt-cache1.peers.tv/streaming/sovetskiemult/16/variable.m3u8
+#EXTINF:-2 tvg-name="Мультимузыка" group-title="Новые Детские", Мультимузыка
+https://rt-cache1.peers.tv/streaming/multmusic/16/tvrecw/playlist.m3u8
+#EXTINF:-2 tvg-name="Мульт" group-title="Новые Детские", Мульт
+https://rt-cache1.peers.tv/streaming/mult/16/tvrecw/playlist.m3u8
+#EXTINF:-2 tvg-name="TiJi" group-title="Новые Детские", TiJi
+http://178.124.183.4:80/hls/Q0HVVEIKSQ/variant.m3u8
+#EXTINF:-2 tvg-name="Fan HD group-title="Новые Детские", Fan HD
+https://rt-cache1.peers.tv/streaming/fan_hd/16/copy/playlist.m3u8
+#EXTINF:-2 tvg-name="Мамонтёнок" group-title="Новые Детские", Мамонтёнок
+https://rt-cache1.peers.tv/streaming/mmntk/126/copy/playlist.m3u8
+#EXTINF:-2 tvg-name="Jim Jam" group-title="Новые Детские", Jim Jam
+http://78.157.230.19/streaming/jim_jam/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-2 tvg-name="Boomerang" group-title="Новые Детские", Boomerang
+http://178.124.183.14:80/hls/JSQ2S6VQTE/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Cartoon Network" group-title="Новые Детские", Cartoon Network
+http://178.124.183.13/hls/CNVX7JRQJI/bw1200000/playlist.m3u8
+#EXTINF:-2 tvg-name="Gulli Girl" group-title="Новые Детские", Gulli Girl
+http://178.124.183.5/hls/7FFGONY2N8/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Lale" group-title="Новые Детские", Lale
+http://lale-hls1.cosmonova.net.ua/hls/lale_ua_hi/index.m3u8
+#EXTINF:-2 tvg-name="Смайлик ТВ" group-title="Новые Детские", Смайлик ТВ
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-2 tvg-name="Мультимания" group-title="Новые Детские", Мультимания
+http://178.124.183.150/hls/FBYQ8KG5HM_HLS/bw1200000/playlist.m3u8
+#EXTINF:-2 tvg-name="Радость Моя" group-title="Новые Детские", Радость Моя
+https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-2 group-title="Новые Детские", Детский Мир
+http://178.124.183.13/hls/9F67L3DGIF/bw1200000/playlist.m3u
+#EXTINF:-2 tvg-name="Капитан Фантастика" group-title="Новые Детские", Капитан Фантастика
+https://rt-cache1.peers.tv/streaming/ginger_hd/16/copy/playlist.m3u8
+#EXTINF:-2 tvg-name="В гостях у сказки" group-title="Новые Детские", В гостях у сказки
+http://178.124.183.150/hls/CH_VGOSTYAH_HLS/bw1200000/playlist.m3u8
+#EXTINF:-2 group-title="Новые Детские", Da Vinci Learning
+http://213.174.8.7:8000/play/21/index.m3u8
+#EXTINF:-2 group-title="Новые Детские", Детский
+http://178.124.183.4:80/hls/29EYV8AKKV/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Детские", Пингвин ЛоЛо
+https://rt-cache1.peers.tv/streaming/pingvin_lolo/126/variable.m3u8
+#EXTINF:-2 tvg-name="Любимое ТВ" group-title="Новые Детские", Любимое ТВ
+http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
+#EXTINF:-2 tvg-name="2x2" group-title="Новые Детские", 2x2
+https://mfe.svc.ott.zala.by/hls/EU9VTLDQCN_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Детские", О!
+https://rt-cache1.peers.tv/streaming/o/16/copy/playlist.m3u8
+#EXTINF:-2 tvg-name="Brige TV" group-title="Новые Музыка", Bridge TV
+https://rt-cache1.peers.tv/streaming/bridge/126/variable.m3u8
+#EXTINF:-2 tvg-name="Brige TV Classic" group-title="Новые Музыка", Bridge TV Classic
+https://rt-cache1.peers.tv/streaming/bridge_tv_classic/126/variable.m3u8
+#EXTINF:-2 tvg-name="Bridge TV Русский хит" group-title="Новые Музыка", Bridge TV Русский хит
+https://rt-cache1.peers.tv/streaming/rusong_tv/126/variable.m3u8
+#EXTINF:-2 group-title="Новые Музыка", М1 Classic
+https://flavors-proxy.m1.tv//flavors/1/720/stream.m3u8
+#EXTINF:-2 group-title="Новые Музыка", М1 Hits
+https://flavors-proxy.m1.tv//flavors/2/720/stream.m3u8
+#EXTINF:-2 group-title="Новые Музыка", М1 Hip Hop
+https://flavors-proxy.m1.tv//flavors/3/720/stream.m3u8
+#EXTINF:-2 group-title="Новые Музыка", Europa Plus TV
+http://178.124.183.14:80/hls/BHH8EKRXPO/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Music Box RU" group-title="Новые Музыка", Music Box RU
+http://live.musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8
+#EXTINF:-2 tvg-name="Music Box UA" group-title="Новые Музыка", MusicBox UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-2 group-title="Новые Музыка", OTV Music
+http://212.26.146.148/hls/otv.m3u8
+#EXTINF:-2 tvg-name="MTV" group-title="Новые Музыка", MTV
+https://rt-cache1.peers.tv/streaming/mtv_hd/16/copy/playlist.m3u8
+#EXTINF:-2 tvg-name="MTV Dance" group-title="Новые Музыка", MTV Dance
+https://rt-cache1.peers.tv/streaming/mtv_dance/16/tvrecw/playlist.m3u8
+#EXTINF:-2 tvg-name="MTV Hits" group-title="Новые Музыка", MTV Hits
+https://rt-cache1.peers.tv/streaming/mtv_hits/16/tvrecw/playlist.m3u8
+#EXTINF:-2 tvg-name="MTV Live" group-title="Новые Музыка", MTV Live
+https://rt-cache1.peers.tv/streaming/mtv_live_hd/16/variable.m3u8
+#EXTINF:-2 tvg-name="Mezzo" group-title="Новые Музыка", Mezzo
+https://rt-cache1.peers.tv/streaming/mezzo_live_hd/16/copy/playlist.m3u8
+#EXTINF:-2 tvg-name="MusicBox TV" group-title="Новые Музыка", MusicBox TV
+https://rt-cache1.peers.tv/streaming/musboxtv/16/tvrec/playlist.m3u8
+#EXTINF:-2 tvg-name="O2TV" group-title="Новые Музыка", O2TV
+https://rt-cache1.peers.tv/streaming/o2tv/126/tvrecw/playlist.m3u8
+#EXTINF:-2 tvg-name="RU.TV" group-title="Новые Музыка", RU.TV 
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-2 tvg-name="Russian Music Box" group-title="Новые Музыка", Russian Music Box
+https://rt-cache1.peers.tv/streaming/musboxru/126/variable.m3u8
+#EXTINF:-2 tvg-name="Song TV Россия" group-title="Новые Музыка", Song TV Россия
+https://rt-cache1.peers.tv/streaming/songtv_russia/126/copy/playlist.m3u8
+#EXTINF:-2 tvg-name="VH1 Classic" group-title="Новые Музыка", VH1 Classic
+https://rt-cache1.peers.tv/streaming/vh1/16/tvrec/playlist.m3u8
+#EXTINF:-2 tvg-name="Муз ТВ" group-title="Новые Музыка", Муз ТВ
+https://rt-cache1.peers.tv/streaming/muz_tvnew/126/variable.m3u8
+#EXTINF:-2 group-title="Новые Музыка",HIT Music
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-2 group-title="Новые Музыка",ТНТ music
+http://178.124.183.12/hls/BCJGRB3KAX/bw2000000/playlist.m3u8
+#EXTINF:-2 tvg-name="MM-TV HD" group-title="Новые Музыка", MM-TV HD
+http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+#EXTINF:-2 group-title="Новые Музыка",RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-2 group-title="Новые Музыка", Ля-минор ТВ
+https://rt-cache1.peers.tv/streaming/la_minor/16/tvrec/playlist.m3u8
+#EXTINF:-2 group-title="Новые Музыка", Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-2 group-title="Новые Музыка", Deluxe Music TV
+http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
+#EXTINF:-2 tvg-name="ОТВ (Приморье)" group-title="Новые Музыка", OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-2 tvg-name="M2" group-title="Новые Музыка", М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-2 tvg-name="Шансон ТВ" group-title="Новые Музыка", Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-2 tvg-name="ТНТ Music" group-title="Новые Музыка", ТНТ Music
+http://176.62.191.181:38022/dop20512/tntmusic/index.m3u8
+#EXTINF:-2 tvg-name="MCM Top" group-title="Новые Музыка", MCM Top
+http://92.43.140.249/s49/index.m3u8?codec=mpeg4
+#EXTINF:-2 tvg-name="VIP Comedy" group-title="Новые Кино", VIP Comedy
+https://rt-cache1.peers.tv/streaming/tv1000_comedy_hd/16/copy/playlist.m3u8
+#EXTINF:-2 tvg-name="VIP Megahit" group-title="Новые Кино",VIP Megahit
+https://rt-cache1.peers.tv/streaming/tv1000_megahit_hd/16/copy/playlist.m3u8
+#EXTINF:-2 tvg-name="VIP Premiere" group-title="Новые Кино",VIP Premiere
+https://rt-cache1.peers.tv/streaming/tv1000_premium_hd/16/copy/playlist.m3u8
+#EXTINF:-2 tvg-name="VIP Serial" group-title="Новые Кино", VIP Serial
+https://rt-cache1.peers.tv/streaming/viasat_golf_hd/16/copy/playlist.m3u8
+#EXTINF:-2 tvg-name="AMEDIA HIT HD" group-title="Новые Кино", AMEDIA HIT HD
+https://rt-cache1.peers.tv/streaming/amedia_hit/16/variable.m3u8
+#EXTINF:-2 tvg-name="TV1000" group-title="Новые Кино", TV1000
+http://178.124.183.5/hls/6WMZMUEWGN_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="TV1000 Action" group-title="Новые Кино", TV1000 Action
+http://178.124.183.5/hls/9X9NUEEKGW_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="TV1000 Русское кино" group-title="Новые Кино", TV1000 Русское кино
+http://178.124.183.5/hls/PWIKICZUYF_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино",Amedia Premium
+https://rt-cache1.peers.tv/streaming/amediapremium_hd/16/hd/playlist.m3u8
+#EXTINF:-2 tvg-name="Amedia 1" group-title="Новые Кино", Amedia 1
+http://178.124.183.4:80/hls/CH_AMEDIA_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Amedia 2" group-title="Новые Кино", Amedia 2
+http://178.124.183.4:80/hls/H4DP5GK3AE_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="AMedia Hit" group-title="Новые Кино", AMedia Hit
+http://178.124.183.4:80/hls/CH_AMEDIAHIT_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Наше Новое Кино
+http://178.124.183.5/hls/UVPWPN2KTN_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Еврокино
+http://178.124.183.5/hls/JEDUS3FS7V_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", КиноМикс
+http://178.124.183.5/hls/VVG76MWUGX_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Кинохит
+http://178.124.183.5/hls/HDOHSSZQCP_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Русский Иллюзион
+http://178.124.183.5/hls/CMV4SNACFQ_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Иллюзион +
+http://178.124.183.5/hls/V8TRED4CZL_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Мужское кино
+http://178.124.183.5/hls/W7LNWHFGTB_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Sony SciFi
+http://178.124.183.5/hls/EDVYQYGHF8_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Set HD
+http://178.124.183.5/hls/VPRSUR2WN2_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Киносерия
+http://178.124.183.5/hls/CH_KINOSERIA_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Кинопремьера HD
+http://178.124.183.5/hls/CH_KINOPREMERA_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Родное Кино
+http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Наше любимое кино
+http://178.124.183.5/hls/CH_NASHEKINO_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Индийское кино
+http://178.124.183.5/hls/CH_INDIYATV_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Дом кино" group-title="Новые Кино", Дом кино
+http://178.124.183.150/hls/CH_DOMKINO_HLS/bw1200000/playlist.m3u8
+#EXTINF:-2 tvg-name="Дом Кино Премиум HD" group-title="Новые Кино", Дом Кино Премиум HD
+https://rt-cache1.peers.tv/streaming/dom_kino_premium/16/variable.m3u8
+#EXTINF:-2 group-title="Новые Кино", Sony Sci-Fi
+http://178.124.183.5/hls/EDVYQYGHF8_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Sony Channel HD
+http://178.124.183.5/hls/VPRSUR2WN2_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="STAR CINEMA" group-title="Новые Кино", STAR CINEMA
+http://178.124.183.5/hls/CH_STARCINEMA_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="STAR FAMILY" group-title="Новые Кино", STAR FAMILY
+http://178.124.183.5/hls/CH_FAMILY_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", FOX
+http://178.124.183.5/hls/CH_FOX_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", FOX Life
+http://178.124.183.5/hls/CH_FOXL_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Кино", Классика Кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-2 tvg-name="Матч! Премьер" group-title="Новые Спорт", Матч! Премьер
+https://95-213-224-171.livesports24.online/mpremierrus.m3u8
+#EXTINF:-2 tvg-name="Матч! Страна" group-title="Новые Спорт", Матч! Страна
+https://95-213-224-171.livesports24.online/mnashsport.m3u8
+#EXTINF:-2 tvg-name="Матч! Арена" group-title="Новые Спорт", Матч! Арена
+https://95-213-224-171.livesports24.online/rumatcharena.m3u8
+#EXTINF:-2 tvg-name="Матч! Игра" group-title="Новые Спорт", Матч! Игра
+https://95-213-224-171.livesports24.online/migra.m3u8
+#EXTINF:-2 tvg-name="Матч! Боец" group-title="Новые Спорт", Матч! Боец
+https://95-213-224-171.livesports24.online/matchboetsru.m3u8
+#EXTINF:-2 tvg-name="Сетанта Спорт" group-title="Новые Спорт", Сетанта Спорт
+https://95-213-224-171.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-2 tvg-name="Сетанта Спорт Украина" group-title="Новые Спорт", Сетанта Спорт Украина
+https://95-213-224-171.livesports24.online/setantaukraine.m3u8
+#EXTINF:-2 tvg-name="Setanta Sports HD" group-title="Новые Спорт", Setanta Sports HD
+http://178.124.183.5/hls/FWHTTL8YXU_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Setanta Sports+ HD" group-title="Новые Спорт", Setanta Sports+ HD
+http://178.124.183.5/hls/5T3FNFICQ4_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="КХЛ" group-title="Новые Спорт", КХЛ
+http://178.124.183.5/hls/36H3IDE2WF_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Eurosport 1" group-title="Новые Спорт", Eurosport 1
+https://95-213-224-171.livesports24.online/eurosport1ru.m3u8
+#EXTINF:-2 tvg-name="Eurosport 2" group-title="Новые Спорт", Eurosport 2
+https://sportbar.biz/lba/123/g6/ruseuro2.m3u8
+#EXTINF:-2 tvg-name="Xsport" group-title="Новые Спорт", Xsport
+http://xsport-hls1.cosmonova.net.ua/hls/xsport_ua_hi/index.m3u8
+#EXTINF:-2 group-title="Новые Спорт",Extreme sports
+http://78.157.230.19/streaming/extreme_sports/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-2 group-title="Новые Спорт",FightBOX
+http://78.157.230.19/streaming/fightbox/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-2 group-title="Новые Спорт",Viasat Sport HD
+http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
+#EXTINF:-2 tvg-name="Discovery Channel" group-title="Новые Познавательное", Discovery Channel
+http://213.174.8.7:8000/play/24/index.m3u8
+#EXTINF:-2 tvg-name="Discovery World" group-title="Новые Познавательное", Discovery World
+http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:-2 tvg-name="National Geographic" group-title="Новые Познавательное", National Geographic
+http://178.124.183.5/hls/CH_NATGEO_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="National Geographic Wild" group-title="Новые Познавательное", National Geographic Wild
+http://178.124.183.5/hls/ESCMSBZJ8X_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Animal Planet" group-title="Новые Познавательное", Animal Planet
+https://rt-cache1.peers.tv/streaming/animalplanet/16/tvrecw/playlist.m3u8
+#EXTINF:-2 tvg-name="History" group-title="Новые Познавательное", History
+http://178.124.183.5/hls/CH_HISTORY/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Travel+Adventure" group-title="Новые Познавательное", Travel+Adventure
+http://178.124.183.5/hls/TRH5A5QCPD_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Познавательное", Oхотник и Рыболов HD
+http://178.124.183.5/hls/4FDNBEDGFV_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Познавательное", Охота и Рыбалка
+http://178.124.183.5/hls/VF5ELDF8AL_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Viasat History" group-title="Новые Познавательное", Viasat History
+http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Viasat Nature" group-title="Новые Познавательное", Viasat Nature
+http://178.124.183.5/hls/BN3FTDY3T8_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Viasat Explorer" group-title="Новые Познавательное", Viasat Explorer
+http://178.124.183.5/hls/JQQ83OBHTQ_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Познавательное", Оружие
+http://178.124.183.5/hls/EWEXU8FWAZ_HLS/variant.m3u8?version=2
+#EXTINF:-2 group-title="Новые Познавательное", Драйв
+http://178.124.183.5/hls/6UTCEG6ATO_HLS/variant.m3u8?version=2
+#EXTINF:-2 tvg-name="Nano TV" group-title="Новые Познавательное", Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-2 tvg-name="Моя Планета" group-title="Новые Познавательное", Моя Планета
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-2 tvg-name="Неизвестная планета" group-title="Новые Познавательное", Неизвестная планета
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:-2 tvg-name="Ocean TV" group-title="Новые Познавательное", Ocean TV
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
+#EXTINF:-2 tvg-name="Наука 2.0" group-title="Новые Познавательное", Наука 2.0
+http://109.95.47.229:809/Nauka/index.m3u8
+#EXTINF:-2 tvg-name="Техно 24" group-title="Новые Познавательное", Техно 24
+http://92.43.140.249/s68/index.m3u8?codec=mpeg4
+#EXTINF:-2 tvg-name="Приключения" group-title="Новые Познавательное", Приключения
+http://92.43.140.249/s99/index.m3u8?codec=mpeg4
+#EXTINF:-2 tvg-name="ЭВРИКА" group-title="Новые Познавательное", ЭВРИКА
+http://92.43.140.249/s44/index.m3u8?codec=mpeg4
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/11llLr1.jpg" tvg-country="UA" tvg-url="" group-title="Новини",100% News
 http://85.238.112.40:8810/hls_sec/239.17.16.32-.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/11llLr1.jpg" tvg-country="UA" tvg-url="" group-title="Новини",100% News

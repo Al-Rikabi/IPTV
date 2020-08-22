@@ -23,10 +23,6 @@ http://51.15.176.84/hls/novy-1/index.m3u8
 http://163.172.71.147:8080/novyy/mpegts
 #EXTINF:-1,Iнтер
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1 ,ИНТЕР
-http://lb1.macc.com.ua/img/inter_2/index.m3u8
-#EXTINF:-1 ,Интер
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1, Київ ТВ
 https://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv2.sdp/chunklist.m3u8
 #EXTINF:-1,НТН

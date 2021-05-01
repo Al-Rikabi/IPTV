@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1,UA Перший HD Обновлен 29.04.2021 - www.tva.org.ua
+#EXTINF:-1,UA Перший HD Обновлен 22.04.2021 - www.tva.org.ua
 http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8
-#EXTINF:-1 ,UA:Перший HD www.tva.org.ua
+#EXTINF:-1 ,UA:Перший HD
 http://95.67.12.189:10055
 #EXTINF:-1,UA:Перший
 http://95.67.12.189:10056
@@ -23,18 +23,14 @@ https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
 http://109.68.41.148:1935/live/inter_3/playlist.m3u8
 #EXTINF:-1 ,INTER
 http://51.68.141.106:8081/tv/inter/chunks.m3u8
+#EXTINF:-1,Iнтер+
+http://195.49.206.244:90/Inter+/index.m3u8
 #EXTINF:-1,ICTV
 http://51.195.44.53:8081/tv/ictv/playlist.m3u8
 #EXTINF:-1,ICTV Украина
 http://46.63.0.9:8001/ictv
-#EXTINF:-1,ICTV
-http://51.15.176.84/hls/ictv-live/index.m3u8
-#EXTINF:-1,Новий канал
-http://51.15.176.84/hls/novy-live/index.m3u8
-#EXTINF:-1, Новый канал r
+#EXTINF:-1, Новый канал
 http://51.195.44.53:8081/tv/novii-kanal/chunks.m3u8
-#EXTINF:-1,СТБ
-http://51.15.176.84/hls/stb-live/index.m3u8
 #EXTINF:-1,ТЕТ
 http://51.195.44.53:8081/tv/tet/playlist.m3u8
 #EXTINF:-1,Киев ТВ 
@@ -61,8 +57,6 @@ http://live.rudana.com.ua/hls/stream_FHD.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 ,Akadem TV (Суми)
 http://178.20.154.64:8888/atv
-#EXTINF:-1,Снятин HD
-http://93.170.188.5:3742/index.m3u8
 #EXTINF:-1 ,Аверс (Луцьк)
 https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 ,ГРОМАДСЬКЕ ІНТЕРАКТИВНЕ ТЕЛЕБАЧЕННЯ (Луцьк)
@@ -125,10 +119,6 @@ http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
 http://185.53.79.12/ternopil1/index.m3u8
 #EXTINF:-1,Тернопiль 1 HD
 http://ott.columbus.te.ua/ternopil1/index.m3u8
-#EXTINF:-1,МІСТО+ (Полтава)
-http://93.78.206.172:8080/stream5/stream.m3u8
-#EXTINF:-1,НТК Коломия
-https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1,Сигма ТВ (Мариуполь)
 https://streamvideol.luxnet.ua/sigmatv/sigmatv.stream/playlist.m3u8
 #EXTINF:-1,ТВА tva.org.ua
@@ -286,8 +276,6 @@ http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
 https://video.onet.zp.ua/TV_Berdyansk/index.m3u8
 #EXTINF:-1,ТРК Юг (Бердянск)
 https://video.onet.zp.ua/TV_UG/tracks-v1a1/index.m3u8
-#EXTINF:-1,ТРК Юг
-http://video.onet.zp.ua/TV_UG/index.m3u8
 #EXTINF:-1,Твой Плюс
 https://tviyplus.normatv.ks.ua:8082/web/tviy_plus_4/playlist.m3u8
 #EXTINF:-1,Твой Плюс
@@ -316,8 +304,6 @@ http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
 rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1,ITV (Ровно)
 http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
-#EXTINF:-1,Сфера-ТВ HD Рівне
-https://hls.goodgame.ru/hls/178689.m3u8
 #EXTINF:-1,ITV HD
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 #EXTINF:-1,Перший Козацький
@@ -392,12 +378,3 @@ http://streamvideol1.luxnet.ua/luxstudio/luxstudio.stream/chunklist.m3u8
 https://streamvideo.luxnet.ua/luxlviv/luxlviv.stream/playlist.m3u8
 #EXTINF:-1 group-title="РАДИО",Радио 10 (Черновцы)
 http://langate.tv/acc/tracks-v1/index.m3u8
-
-
-
-
-
-
-
-
-
